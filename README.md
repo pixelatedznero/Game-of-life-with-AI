@@ -2,7 +2,7 @@
 
 Trying to make AI create patterns to do stuff in Conway's game of life
 
-##IMPORTANT
+## IMPORTANT
 
 The development of the game of life simulation is beeing discontinued in this repository. An actual libary is beeing developed over at my golpi repository.
 
